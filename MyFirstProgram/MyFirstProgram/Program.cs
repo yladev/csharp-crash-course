@@ -10,7 +10,21 @@ namespace MyFirstProgram
     {
         static void Main(string[] args)
         {
+            Console.Write("Hey!");
             Console.WriteLine("Hello World");
+
+            // This is a comment
+            /*
+             * this
+             * is
+             * a 
+             * multiline
+             * comment
+            */
+
+            Console.WriteLine("yladev");
+
+            Console.ReadKey();
         }
     }
 }
