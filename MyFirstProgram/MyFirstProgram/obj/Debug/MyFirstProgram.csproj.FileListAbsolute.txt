@@ -1,0 +1,1 @@
+D:\C#\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
