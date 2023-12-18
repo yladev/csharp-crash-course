@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsUserInput</StartupObject>
+    <StartupObject>MyFirstProgram.clsArithmeticOperators</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsArithmeticOperators.cs" />
     <Compile Include="clsConstants.cs" />
     <Compile Include="clsTypeCasting.cs" />
     <Compile Include="clsUserInput.cs" />
