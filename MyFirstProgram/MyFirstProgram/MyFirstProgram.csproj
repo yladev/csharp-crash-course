@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsMathClass</StartupObject>
+    <StartupObject>MyFirstProgram.clsRandomNumbers</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
     <Compile Include="clsArithmeticOperators.cs" />
     <Compile Include="clsConstants.cs" />
     <Compile Include="clsMathClass.cs" />
+    <Compile Include="clsRandomNumbers.cs" />
     <Compile Include="clsTypeCasting.cs" />
     <Compile Include="clsUserInput.cs" />
     <Compile Include="clsVariables.cs" />
