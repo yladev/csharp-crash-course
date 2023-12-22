@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsLogicalOperator</StartupObject>
+    <StartupObject>MyFirstProgram.clsWhileLoops</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -57,6 +57,7 @@
     <Compile Include="clsTypeCasting.cs" />
     <Compile Include="clsUserInput.cs" />
     <Compile Include="clsVariables.cs" />
+    <Compile Include="clsWhileLoops.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
