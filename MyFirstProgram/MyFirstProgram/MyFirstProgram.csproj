@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsWhileLoops</StartupObject>
+    <StartupObject>MyFirstProgram.clsForLoop</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="clsArithmeticOperators.cs" />
     <Compile Include="clsConstants.cs" />
+    <Compile Include="clsForLoop.cs" />
     <Compile Include="clsHypotenuseCalculatorProgram.cs" />
     <Compile Include="clsIfStatements.cs" />
     <Compile Include="clsLogicalOperator.cs" />
