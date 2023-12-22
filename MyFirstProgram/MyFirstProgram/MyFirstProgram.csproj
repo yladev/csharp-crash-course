@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsStringMethods</StartupObject>
+    <StartupObject>MyFirstProgram.clsIfStatements</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
     <Compile Include="clsArithmeticOperators.cs" />
     <Compile Include="clsConstants.cs" />
     <Compile Include="clsHypotenuseCalculatorProgram.cs" />
+    <Compile Include="clsIfStatements.cs" />
     <Compile Include="clsMathClass.cs" />
     <Compile Include="clsRandomNumbers.cs" />
     <Compile Include="clsStringMethods.cs" />
