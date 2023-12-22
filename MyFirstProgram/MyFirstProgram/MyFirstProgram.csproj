@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsIfStatements</StartupObject>
+    <StartupObject>MyFirstProgram.clsSwitches</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="clsMathClass.cs" />
     <Compile Include="clsRandomNumbers.cs" />
     <Compile Include="clsStringMethods.cs" />
+    <Compile Include="clsSwitches.cs" />
     <Compile Include="clsTypeCasting.cs" />
     <Compile Include="clsUserInput.cs" />
     <Compile Include="clsVariables.cs" />
