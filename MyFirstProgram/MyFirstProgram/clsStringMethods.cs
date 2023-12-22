@@ -24,6 +24,12 @@ namespace MyFirstProgram
 
             Console.WriteLine(fullName.Length);
 
+            String firstName = fullName.Substring(0, 5);
+            Console.WriteLine(firstName);
+
+            String lastName = fullName.Substring(6, 6);
+            Console.WriteLine(lastName);
+
             Console.ReadKey();
         }
     }
