@@ -10,6 +10,10 @@ namespace MyFirstProgram
     {
         static void Main(string[] args)
         {
+            // if statement = a basic from of decision making
+
+            // If Statement with int Data Type
+
             Console.WriteLine("Please enter your age: ");
             int age = Convert.ToInt32(Console.ReadLine());
 
@@ -28,6 +32,20 @@ namespace MyFirstProgram
             else
             {
                 Console.WriteLine("You must be 18+ to sign up!");
+            }
+
+            // If Statement with String Data Type
+
+            Console.WriteLine("Please enter you name: ");
+            String name = Console.ReadLine();
+
+            if (name != "")
+            {
+                Console.WriteLine("Hello " + name);
+            }
+            else
+            {
+                Console.WriteLine("You didn't enter your name");
             }
 
             Console.ReadKey();
