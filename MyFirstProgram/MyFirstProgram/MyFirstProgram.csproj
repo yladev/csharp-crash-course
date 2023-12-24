@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsNestedLoops</StartupObject>
+    <StartupObject>MyFirstProgram.clsNumberGuessingGame</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,7 @@
     <Compile Include="clsLogicalOperator.cs" />
     <Compile Include="clsMathClass.cs" />
     <Compile Include="clsNestedLoops.cs" />
+    <Compile Include="clsNumberGuessingGame.cs" />
     <Compile Include="clsRandomNumbers.cs" />
     <Compile Include="clsStringMethods.cs" />
     <Compile Include="clsSwitches.cs" />
