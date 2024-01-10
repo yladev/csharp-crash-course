@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsNumberGuessingGame</StartupObject>
+    <StartupObject>MyFirstProgram.clsWhileLoop</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
