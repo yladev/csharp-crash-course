@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyFirstProgram
 {
-    class clsWhileLoop
+    class clsWhileLoops
     {
         static void Main(string[] args)
         {

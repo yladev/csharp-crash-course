@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsForLoop</StartupObject>
+    <StartupObject>MyFirstProgram.clsNestedLoops</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,18 +47,19 @@
   <ItemGroup>
     <Compile Include="clsArithmeticOperators.cs" />
     <Compile Include="clsConstants.cs" />
-    <Compile Include="clsForLoop.cs" />
+    <Compile Include="clsForLoops.cs" />
     <Compile Include="clsHypotenuseCalculatorProgram.cs" />
     <Compile Include="clsIfStatements.cs" />
     <Compile Include="clsLogicalOperator.cs" />
     <Compile Include="clsMathClass.cs" />
+    <Compile Include="clsNestedLoops.cs" />
     <Compile Include="clsRandomNumbers.cs" />
     <Compile Include="clsStringMethods.cs" />
     <Compile Include="clsSwitches.cs" />
     <Compile Include="clsTypeCasting.cs" />
     <Compile Include="clsUserInput.cs" />
     <Compile Include="clsVariables.cs" />
-    <Compile Include="clsWhileLoop.cs" />
+    <Compile Include="clsWhileLoops.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
