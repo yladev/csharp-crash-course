@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsCalculatorProgram</StartupObject>
+    <StartupObject>MyFirstProgram.clsArrays</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clsArithmeticOperators.cs" />
+    <Compile Include="clsArrays.cs" />
     <Compile Include="clsCalculatorProgram.cs" />
     <Compile Include="clsConstants.cs" />
     <Compile Include="clsForLoops.cs" />
