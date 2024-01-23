@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsArrays</StartupObject>
+    <StartupObject>MyFirstProgram.clsForEachLoop</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="clsArrays.cs" />
     <Compile Include="clsCalculatorProgram.cs" />
     <Compile Include="clsConstants.cs" />
+    <Compile Include="clsForEachLoop.cs" />
     <Compile Include="clsForLoops.cs" />
     <Compile Include="clsHypotenuseCalculatorProgram.cs" />
     <Compile Include="clsIfStatements.cs" />
