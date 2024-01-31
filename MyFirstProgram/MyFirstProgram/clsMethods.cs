@@ -13,16 +13,21 @@ namespace MyFirstProgram
             // method = performs a section of code, whenever it's called "invoked".
             //          benefit = Let's us reuse code w/o writing it multiple times.
 
-            singHappyBirthday();
+
+            String name = "Jason";
+            int age = 18;
+
+            singHappyBirthday(name, age);
 
             Console.ReadKey();
         }
 
-        static void singHappyBirthday()
+        static void singHappyBirthday(string name, int age)
         {
             Console.WriteLine("Happy birthday to you!");
             Console.WriteLine("Happy birthday to you!");
-            Console.WriteLine("Happy birthday dear you!");
+            Console.WriteLine("Happy birthday dear " + name);
+            Console.WriteLine("You are " + age + " years old!");
             Console.WriteLine("Happy birthday to you!");
             Console.WriteLine();
         }
