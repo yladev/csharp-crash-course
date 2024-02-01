@@ -59,6 +59,7 @@
     <Compile Include="clsNestedLoops.cs" />
     <Compile Include="clsNumberGuessingGame.cs" />
     <Compile Include="clsRandomNumbers.cs" />
+    <Compile Include="clsReturnKeyword.cs" />
     <Compile Include="clsRockPaperScissorsGame.cs" />
     <Compile Include="clsStringMethods.cs" />
     <Compile Include="clsSwitches.cs" />
