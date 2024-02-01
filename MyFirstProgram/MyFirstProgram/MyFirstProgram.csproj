@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProgram.clsMethods</StartupObject>
+    <StartupObject>MyFirstProgram.clsMethodOverloading</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,6 +55,7 @@
     <Compile Include="clsIfStatements.cs" />
     <Compile Include="clsLogicalOperator.cs" />
     <Compile Include="clsMathClass.cs" />
+    <Compile Include="clsMethodOverloading.cs" />
     <Compile Include="clsMethods.cs" />
     <Compile Include="clsNestedLoops.cs" />
     <Compile Include="clsNumberGuessingGame.cs" />

@@ -25,7 +25,7 @@ namespace MyFirstProgram
             result = Multiply(x, y);
 
             Console.WriteLine("Result is: " + result);
-
+            
             Console.ReadKey();
         }
 
